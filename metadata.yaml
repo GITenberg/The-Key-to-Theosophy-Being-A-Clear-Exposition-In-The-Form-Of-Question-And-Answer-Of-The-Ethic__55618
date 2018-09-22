@@ -1,5 +1,8 @@
 _repo: The-Key-to-Theosophy-Being-A-Clear-Exposition-In-The-Form-Of-Question-And-Answer-Of-The-Ethic__55618
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55618-h/images/cover.jpg
 creator:
   author:
     agent_name: Blavatsky, H. P. (Helena Petrovna)
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2154
     wikipedia: http://en.wikipedia.org/wiki/Helena_Petrovna_Blavatsky
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55618#The-Key-to-Theosophy-Being-A-Clear-Exposition-In-The-Form-Of-Question-And-Answer-Of-The-Ethic_
 gutenberg_issued: '2017-09-24'
 gutenberg_type: Text
 identifiers:
